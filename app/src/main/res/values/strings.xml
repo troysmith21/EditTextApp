@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditTextApp</string>
+    <string name="edit">Edit Text Here</string>
+    <string name="prefFileNameDescription">Name of file where this application loads and saves text</string>
+    <string name="loadmenutext">Load Text File</string>
+    <string name="savemenutext">Save Text File</string>
+</resources>
